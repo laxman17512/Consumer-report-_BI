@@ -120,12 +120,12 @@ A robust suite of DAX measures supports rolling analytics, comparisons, performa
 
 ## 📂 Files
 
-| File Name                              | Description                           |
-|---------------------------------------|---------------------------------------|
-| `Consumer_Remort_Global_Dashboard.pbix` | Primary Power BI report file           |
-| `README.md`                           | Project documentation                  |
-| `Consumer_Remort_Global_Dashboard.pdf`| Static visual reference of report layout |
-| `Sales_Schema.png`                    | Data model diagram                     |
+| File Name                               | Description                             |
+|---------------------------------------  |---------------------------------------  |
+| `Consumer_Remort_Global_Dashboard.pbix` | Primary Power BI report file            |
+| `README.md`                             | Project documentation                   |
+| `Consumer_Remort_Global_Dashboard.pdf`  | Static visual reference of report layout|
+| `Sales_Schema.png`                      | Data model diagram                      |
 
 ---
 
